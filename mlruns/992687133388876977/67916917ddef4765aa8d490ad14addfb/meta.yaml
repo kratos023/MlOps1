@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Deepanshu/Desktop/mlops%20Project/mlruns/992687133388876977/67916917ddef4765aa8d490ad14addfb/artifacts
+end_time: 1749108826128
+entry_point_name: ''
+experiment_id: '992687133388876977'
+lifecycle_stage: active
+run_id: 67916917ddef4765aa8d490ad14addfb
+run_name: GradientBoosting
+run_uuid: 67916917ddef4765aa8d490ad14addfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749108821184
+status: 3
+tags: []
+user_id: Deepanshu
