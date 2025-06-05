@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749117840285
+current_stage: None
+description: null
+last_updated_timestamp: 1749117840285
+name: Best_Iris_Classifier_Model
+run_id: ce83bce444994a13931b2d8cccb2d915
+run_link: null
+source: file:///C:/Users/Deepanshu/Desktop/mlops%20Project/mlruns/992687133388876977/ce83bce444994a13931b2d8cccb2d915/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Deepanshu/Desktop/mlops%20Project/mlruns/992687133388876977/ce83bce444994a13931b2d8cccb2d915/artifacts/model
+user_id: null
+version: 2

@@ -4,10 +4,13 @@ on:
   push:
     branches: [main]
 
-
 jobs:
   train_model:
     runs-on: ubuntu-latest
+    # --- ADD THIS 'env' BLOCK HERE ---
+    env:
+      MLFLOW_TRACKING_URI: "file://${{ github.workspace }}/mlruns" # Forces MLflow to use a local 'mlruns' directory in the workspace
+    # --- END ADDITION ---
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
